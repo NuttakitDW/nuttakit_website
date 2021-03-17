@@ -10,7 +10,7 @@ import 'icon.dart';
 class Footer extends StatelessWidget {
   final String _getInTouch = "Making the decentralized future.";
   final String _description =
-      "I am 3rd year student at Chulalongokrn university learning in major of engineer and self learn for blockchain. not an expert now but I'm on my way and growing every single day";
+      "I am 3rd year student at Chulalongokrn university learning in major of engineer and self learn for blockchain. Not an expert now but I'm on my way and growing every single day";
 
   @override
   Widget build(BuildContext context) {
